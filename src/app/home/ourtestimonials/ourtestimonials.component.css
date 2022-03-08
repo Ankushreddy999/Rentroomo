@@ -1,0 +1,23 @@
+.testi{
+    background-color: #f6f7f7;
+    padding: 20px;
+}
+.test-hd{
+    color: #2c5871;
+    text-align: center;
+}
+.test-para{
+    color: #90b1c2;
+}
+
+.test-brd{
+    border: 3px solid #19578d;
+    border-radius: 50px;
+    padding: 0px 10px;
+}
+.hd-txt-4{
+    color: #008e8e;
+    text-align: center;
+    font-weight: 600;
+    font-size: 44px;
+}

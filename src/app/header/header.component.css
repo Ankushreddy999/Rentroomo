@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #f3f4f4;
+}
+.navbar-light .navbar-brand {
+    color: dodgerblue;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #19578d !important;
+    font-weight: 600;
+}
+.navbar-nav{
+    margin: auto;
+}
+.nav-link{
+    padding: 0px 20px !important;
+}
+.hd-login{
+    padding-left: 250px;
+}
+@media (max-width:500px){
+    .hd-login{
+        padding-left: 0px;
+    }
+}

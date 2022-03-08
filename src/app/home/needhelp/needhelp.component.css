@@ -1,0 +1,40 @@
+.five{
+    border: 3px solid #19578d;
+    border-radius: 50%;
+    padding: 0px;
+    position: absolute;
+}
+.four{
+    border: 2px solid #8ad7f4;
+    border-radius: 20px;
+    padding: 20px 45px;
+}
+.txt-para-1{
+    font-size: 23px;
+    text-align: justify;
+    color: #19578d;
+}
+.hd-txt-3{
+    color: #1a9da3;
+    font-size: 44px;
+    font-weight: 600;
+    text-align: center;
+}
+.quest{
+    color: #19578d;
+    font-size: 75px;
+}
+.excla{
+    font-size: 40px;
+}
+.who-circle-bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7f7f7;
+}
+@media (max-width:500px){
+    .ndhp-mblvw{
+        display: none;
+    }
+}
